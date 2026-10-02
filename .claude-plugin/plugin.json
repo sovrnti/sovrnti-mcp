@@ -1,0 +1,14 @@
+{
+  "name": "sovrnti",
+  "displayName": "Sovrnti",
+  "version": "1.0.0",
+  "description": "Compare sovereign products in AI tools you already use. Every product is scored on Innovation, Control and Scale, for your market and your country.",
+  "author": {
+    "name": "Sovrnti",
+    "url": "https://sovrnti.io"
+  },
+  "homepage": "https://sovrnti.io/?utm_source=claude-plugin&utm_medium=directory&utm_campaign=everywhere-oct2026",
+  "repository": "https://github.com/sovrnti/sovrnti-mcp",
+  "license": "MIT",
+  "keywords": ["sovereignty", "digital-sovereignty", "benchmark", "technology-selection", "procurement", "europe"]
+}

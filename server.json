@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.sovrnti/graph",
+  "title": "Sovrnti MCP",
+  "description": "Headless benchmarks for digital sovereignty, scored on Innovation, Control and Scale.",
+  "version": "1.0.0",
+  "websiteUrl": "https://sovrnti.io/?utm_source=mcp-registry&utm_medium=directory&utm_campaign=everywhere-oct2026",
+  "repository": {
+    "url": "https://github.com/sovrnti/sovrnti-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://sovrnti.io/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://graph.sovrnti.io/mcp"
+    }
+  ]
+}
