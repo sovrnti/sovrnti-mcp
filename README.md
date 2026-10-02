@@ -18,9 +18,7 @@ Every score rests on public, checkable evidence and, where we can, our own hands
 
 ## What you need
 
-A free Sovrnti account. Discovery tools are free; deeper views use credits from your Sovrnti account.
-
-Read only.
+A free Sovrnti account to get started. Discovery tools and snapshots are free; deeper views use credits from your account.
 
 ## Try it
 
