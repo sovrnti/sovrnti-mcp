@@ -16,6 +16,14 @@ Ask questions like "who leads this market", "what holds up if sovereignty is non
 
 Every score rests on public, checkable evidence and, where we can, our own hands-on testing.
 
+## Skills
+
+Three skills guide your AI assistant through common workflows with the Sovrnti tools:
+
+- **Market benchmark**: benchmark a whole market for a country, a region or the world view.
+- **Product comparison**: compare two or three named products side by side.
+- **Decision brief**: turn the results into a short brief for an executive, a board or a security lead, with the sources stated.
+
 ## What you need
 
 A free Sovrnti account to get started. Discovery tools and snapshots are free; deeper views use credits from your account.
@@ -36,7 +44,7 @@ In any other MCP client, use the server URL `https://graph.sovrnti.io/mcp`. The 
 
 ## What this plugin runs and sends
 
-This plugin contains no code. It holds one connector: the Sovrnti MCP server at `https://graph.sovrnti.io/mcp`.
+This plugin contains no code. It holds one connector, the Sovrnti MCP server at `https://graph.sovrnti.io/mcp`, and three skills: written instructions your AI assistant follows when it uses that connector.
 
 When your AI assistant calls a Sovrnti tool, we receive the tool's name, its inputs and your token. We also see the assistant's software name and the connection's IP address. We do not receive your conversation with the assistant. We keep a record of each call (who, which tool, when, the result) and a one-way hash of the inputs. We do not store the inputs themselves. Our tools never return personal data.
 
