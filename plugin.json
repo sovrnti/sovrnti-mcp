@@ -16,7 +16,10 @@
     "digital-sovereignty",
     "benchmark",
     "technology-selection",
-    "procurement"
+    "procurement",
+    "decision",
+    "risk",
+    "intelligence"
   ],
   "extensions": {
     "com.openai": {
