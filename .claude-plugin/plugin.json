@@ -10,6 +10,7 @@
   "homepage": "https://sovrnti.io/?utm_source=claude-plugin&utm_medium=directory&utm_campaign=everywhere-oct2026",
   "repository": "https://github.com/sovrnti/sovrnti-mcp",
   "license": "MIT",
+  "privacyPolicyUrl": "https://sovrnti.io/legal/privacy-policy",
   "keywords": [
     "sovereignty",
     "digital-sovereignty",
