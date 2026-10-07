@@ -100,10 +100,12 @@
             }
           ]
         },
+        "demo_recording_url": "https://supercut.ai/share/sovrnti/lzEimZcENPoaO0tPTOgsuh",
         "commerce": false,
         "commerce_description": "Sovrnti sells nothing inside ChatGPT and never starts a purchase. Some views draw on credits in the user's existing Sovrnti account."
       },
       "publication": {
+        "countries": [],
         "release_notes": "First release: Snapshot, Capability Index, Sovrnti Max, Delta and Compare views with interactive UI, a preview quick-question tool, and three workflow skills: market benchmark, product comparison and decision brief."
       }
     }
